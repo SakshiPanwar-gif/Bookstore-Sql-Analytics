@@ -14,9 +14,3 @@ This project demonstrates end-to-end data analysis and database management for a
 1. **Inventory & Product Analytics:** Retrieving books by genre, identifying high/low stock levels, and locating the most expensive items.
 2. **Customer Insights:** Finding customers from specific countries/cities, tracking frequent buyers, and analyzing top spenders.
 3. **Sales & Revenue Performance:** Calculating total revenue, determining total books sold per genre/author, and tracking remaining stock after fulfilling orders.
-## 🚀 How to Run the Project
-1. Clone this repository or download the files.
-2. Open your MySQL client (e.g., MySQL Workbench, DBeaver, or terminal).
-3. Execute `schema/MySQL_BOOKSTORE.sql` to set up the database and tables.
-4. Run the data insertion scripts inside the `data/` folder (`Books_data.sql`, `Customers_data.sql`, `Orders_data.sql`).
-5. Run the scripts in `queries/SQL_Queries.sql` to explore the business analytics findings.
